@@ -30,38 +30,21 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-![1](https://github.com/atharvawasade20/QuickTubeSummarizer/assets/114360473/0d97ae9a-e85f-482c-b687-fefcb8885dc9)
+6. Now we go to the frontend so open the command prompt through youtube-transcript-summarizer-frontend folder.
 
-7. Now we go to the frontend so open the command prompt through youtube-transcript-summarizer-frontend folder.
-
-8. Run the below command to download all required node module!
-s :-
+7. Run the below command to download all required node modules :-
 ```
 npm install
 ```
-
-9. Now run below command to all get set for the frontend :-
+8. Now run below command to all get set for the frontend :-
 ```
 npm start
 ```
-![2](https://github.com/atharvawasade20/QuickTubeSummarizer/assets/114360473/ec2fa052-c037-4906-aa05-9525dc61ede5)
+9.Now your Chrome Extension is good to go......
 
-![3](https://github.com/atharvawasade20/QuickTubeSummarizer/assets/114360473/84e384cd-17dd-4160-8334-8dceecba71f8)
-
-10.Now your Chrome Extension is good to go......
-
-![4](https://github.com/atharvawasade20/QuickTubeSummarizer/assets/114360473/976b82b8-dc40-4d02-93bd-9cf1ed9af002)
-
-11. Paste the youtube transcript_id of a particular youtube video on the chrome extension and click on summarize.
-
-![5](https://github.com/atharvawasade20/QuickTubeSummarizer/assets/114360473/88edb47b-1a9f-4eae-b2d6-f28b69fefcac)
-
-12. Summary will be generated in different languages which is readable and downloadable and will also be audible in english.
-
-![6](https://github.com/atharvawasade20/QuickTubeSummarizer/assets/114360473/76443afd-0aea-471e-93fc-d00e6e029e4b)
-
-![7](https://github.com/atharvawasade20/QuickTubeSummarizer/assets/114360473/bc0e4d77-6948-41dd-acff-d20b4529e364)
-
-![8](https://github.com/atharvawasade20/QuickTubeSummarizer/assets/114360473/93fecdee-7fc3-491b-8522-ae54071dc749)
+## Implementation
+1. Paste the youtube transcript_id of a particular youtube video on the chrome extension and click on summarize.
+   
+2. Summary will be generated in different languages which is readable and downloadable and will also be audible in english.
 
 
